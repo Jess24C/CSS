@@ -1,0 +1,70 @@
+body {
+	background-image: url("/site/img/img2-site-juli");
+	width: 99%;
+	background-size: cover;
+}
+
+.logo {
+	text-align: left;
+	margin-top: 1%;
+	margin-left: 1%;
+	opacity: 70%;
+	float: left;
+	width: 30%;
+}
+
+.navbar {
+	margin-top: 8.5%;
+	margin-left: 5%;
+	float: left;
+	opacity: 90%;
+}
+
+.textos {
+	float: left;
+	width: 100%;
+	background-color: antiquewhite;
+	margin-top: 5%;
+	opacity: 80%;
+	font-family: quicksand;
+	text-align: center;
+	display: inline-block;
+}
+
+.menu {
+	background-color: antiquewhite;
+	opacity: 60%;
+	vertical-align: middle;
+	text-align: center;
+	height: 35px;
+	width: 40%;
+	margin: auto;
+}
+
+.menu h3 {
+	vertical-align: middle;
+	font-family: quicksand;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.aside {
+	background-color: antiquewhite;
+	opacity: 60%;
+	vertical-align: middle;
+	text-align: center;
+	font-family: quicksand;
+	font-size: 30px;
+}
+
+.rodape {
+	background-color: antiquewhite;
+	opacity: 60%;
+	text-align: center;
+	font-family: quicksand;
+	font-weight: bold;
+	width: 100%;
+	float: left;
+	margin-top: 5%;
+	display: inline-block;
+}
